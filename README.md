@@ -1,6 +1,4 @@
-# Natural Gas
-Natural Gas Research
-
+# Natural Gas Research 
 - By Antonio Hickey
 - Data is from https://www.eia.gov/
 
