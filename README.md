@@ -8,7 +8,7 @@ My goal with this repo is one to leverage my data science skills to gain an edge
 # Table of Contents
 1. [Web Scrapper](https://git.io/JfQpN)
 2. [Data Cleaning](https://git.io/JfQhx)
-3. [Import Prices Linear Regression](https://git.io/JfQpb)
+3. [Linear Regression Model for Import Prices](https://git.io/JfQpb)
 
 ## Tasks:
 - Data exploration
