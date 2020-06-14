@@ -195,7 +195,7 @@ data = (Prices, prices_imports_filtered, prices_i_bp_filtered, prices_i_lng_filt
 df = pd.DataFrame(data, index=idex, columns=dates)
 
 # Exporting to .csv file
-df.to_csv('test1.csv')
+df.to_csv('NatGas_Data.csv')
 ############################################################################################
 #################### ********* END ********* ###################################
 
