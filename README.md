@@ -12,6 +12,8 @@ This Project is for research purposes into the factors that influence Natural Ga
 
 
 
-Tasks:                                                                                                                                                                                                                                              - Cleaning data                                                                                                                             - Data exploration
+Tasks:
+
+- Cleaning data                                                                                                                             - Data exploration
 - Data analysis 
 - Data Visualazation
