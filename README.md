@@ -6,6 +6,12 @@ Natural Gas Weekly Reports                                                      
 
 This Project is for research purposes into the factors that influence Natural Gas prices. We take a deep dive into many contributers like production, consumption, storage, imports, exports, prices, etc. The end goal with this project is to build a model to try and project future Natural Gas prices.
 
+# Table of Contents
+1. [Web Scrapper](#example)
+2. [Import Prices Linear Regression](#example2)
+
+
+
 Tasks:                                                                                                                                      -Building a scrapper to mine data                                                                                                          -Cleaning data                                                                                                                             -Data exploration
 -Data analysis 
 -Data Visualazation
