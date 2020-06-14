@@ -1,6 +1,5 @@
-# Natural-Gas
-Natural Gas Weekly Reports                                                                                                                  By Antonio Hickey  
-
+# Natural Gas
+Natural Gas Data and Models                                                                                                                  By Antonio Hickey  
 
 - Data is from https://www.eia.gov/
 
