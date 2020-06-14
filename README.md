@@ -8,7 +8,7 @@ This Project is for research purposes into the factors that influence Natural Ga
 
 # Table of Contents
 1. [Web Scrapper](#example)
-2. [Import Prices Linear Regression](#example2)
+2. [Import Prices Linear Regression](https://github.com/antonio-hickey/Natural-Gas/blob/master/IP%20vs%20IV%20LNG%20Linear%20Regression.ipynb)
 
 
 
