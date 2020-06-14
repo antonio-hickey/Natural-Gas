@@ -4,16 +4,15 @@ Natural Gas Research
 - By Antonio Hickey
 - Data is from https://www.eia.gov/
 
-This Project is for research purposes into the factors that influence Natural Gas prices. We take a deep dive into many contributers like production, consumption, storage, imports, exports, prices, etc. The end goal with this project is to build a model to try and project future Natural Gas prices.
+My goal with this repo is to leverage my data science skills to gain an edge over the natural gas market. 
+* None of this data is meant to be used as financial advice strictly educational and expiremental purposes only.  
 
 # Table of Contents
-1. [Web Scrapper](https://github.com/antonio-hickey/Natural-Gas/blob/master/NatGas_Scrapper.py)
-2. [Import Prices Linear Regression](https://github.com/antonio-hickey/Natural-Gas/blob/master/IP%20vs%20IV%20LNG%20Linear%20Regression.ipynb)
-
-
+1. [Web Scrapper](https://git.io/JfQpN)
+2. [Data Cleaning](https://git.io/JfQhx)
+3. [Import Prices Linear Regression](https://git.io/JfQpb)
 
 ## Tasks:
-- Cleaning data
 - Data exploration
 - Data analysis 
 - Data Visualazation
