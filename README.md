@@ -6,9 +6,10 @@ My goal with this repo is one to leverage my data science skills to gain an edge
 * None of this data is meant to be used as financial advice strictly educational and expiremental purposes only.  
 
 # Table of Contents
-1. [Web Scrapper](https://git.io/JfQpN)
-2. [Data Cleaning](https://git.io/JfQhx)
-3. [Linear Regression Model for Import Prices](https://git.io/JfQpb)
+1. [Web Scraper](https://git.io/JJTtq)
+2. [Data Cleaning](https://git.io/JJTtB)
+3. [Data Analysis]()
+4. [Linear Regression Model for Import Prices](https://git.io/JfQpb)
 
 ## Tasks:
 - Data exploration
